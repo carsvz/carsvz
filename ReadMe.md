@@ -14,16 +14,17 @@ I enjoy learning by building things, breaking things, and figuring out how they 
 
 ### What I'm currently learning
 
+- ☕ Java & Backend Development
 - 🔐 Cybersecurity & Ethical Hacking
-- 🌐 Networking & Web Security
 - ☕ Java & Backend Development
 - 🐍 Python
 - 🐧 Linux
 - 🗄️ Databases & APIs
+- 🌐 Networking & Web Security
 
 ### Fun Facts
 
-- 💻 I use Linux as my daily driver
+- 💻 I use Arch Linux as my daily driver
 - 🚗 I like cars
 - 🎸 I enjoy music and playing guitar
 

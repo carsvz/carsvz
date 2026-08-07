@@ -6,7 +6,7 @@ I'm José, a software development student from Brazil.
 
 🔐 Currently focused on **Cybersecurity, Information Security and Ethical Hacking**.
 
-My main technologies are **Java, Python, JavaScript and Linux**.
+My main technologies are **Python, Java, JavaScript and Linux**.
 
 I'm currently exploring **networking, web security, backend development and cybersecurity tools**.
 

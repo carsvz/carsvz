@@ -1,31 +1,30 @@
 # Hey there! 👋
 
-I'm José, a software development student from Brazil.
+I'm Haeka, a software development student from Brazil.
 
-💻 I'm learning software development and building projects to improve my skills.
+💻 I'm focused on learning **Web Development** and building projects with JavaScript.
 
-🔐 Currently focused on **Cybersecurity, Information Security and Ethical Hacking**.
+🌐 Currently learning **JavaScript, TypeScript, HTML, CSS and React**.
 
-My main technologies are **Python, Java, JavaScript and Linux**.
+I'm also exploring **Node.js, REST APIs, databases and backend development**.
 
-I'm currently exploring **networking, web security, backend development and cybersecurity tools**.
-
-I enjoy learning by building things, breaking things, and figuring out how they work.
+I enjoy turning ideas into real projects and learning by building things.
 
 ### What I'm currently learning
 
-- ☕ Java & Backend Development
-- 🔐 Cybersecurity & Ethical Hacking
-- ☕ Java & Backend Development
-- 🐍 Python
-- 🐧 Linux
-- 🗄️ Databases & APIs
-- 🌐 Networking & Web Security
+- 🟨 JavaScript
+- 🔷 TypeScript
+- ⚛️ React
+- 🟢 Node.js
+- 🌐 HTML & CSS
+- 🔌 REST APIs
+- 🗄️ Databases
+- 🐧 Linux & Git
 
 ### Fun Facts
 
-- 💻 I use Arch Linux as my daily driver
+- 🐧 I use Linux as my daily driver
 - 🚗 I like cars
 - 🎸 I enjoy music and playing guitar
 
-> **Learn. Build. Break. Secure. 🔐**
+> **Build. Learn. Improve. Repeat. 🚀**

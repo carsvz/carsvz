@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Haeka, a software development student from Brazil.
+I'm José, a software development student from Brazil.
 
 🐍 I'm focused on learning **Python Development**, building projects and improving my backend skills.
 

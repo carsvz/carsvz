@@ -2,31 +2,29 @@
 
 I'm José, a software development student from Brazil.
 
-🐍 I'm focused on learning **Python Development**, building projects and improving my backend skills.
+☕ I'm focused on **Backend Development with Java**, building APIs and learning how scalable applications work.
 
-I'm currently learning **Python, FastAPI, Django, REST APIs, SQL and backend development**.
+I'm currently learning **Java, Spring Boot, REST APIs, SQL and software architecture**.
 
-I enjoy creating useful applications, automating tasks and learning how software works behind the scenes.
+I enjoy building backend projects, solving problems and improving my understanding of clean and maintainable code.
 
 ### What I'm currently learning
 
-- 🐍 Python
-- ⚡ FastAPI
-- 🌐 Django
+- ☕ Java
+- 🌱 Spring Boot
 - 🔌 REST APIs
 - 🗄️ SQL & PostgreSQL
 - 🔐 Authentication & Authorization
-- 🧪 Testing with Pytest
+- 🧪 Unit & Integration Testing
 - 🐳 Docker
 - 🌿 Git & GitHub
-- 🐧 Linux
+- 🏗️ Clean Code & Software Architecture
 
 ### Currently working on
 
-- Building REST APIs with Python
-- Creating backend applications with FastAPI
-- Working with databases and authentication
-- Automating repetitive tasks with Python
+- Building REST APIs with Java & Spring Boot
+- Working with databases and JPA/Hibernate
+- Learning authentication with JWT
 - Improving my knowledge of backend architecture
 
 ### Fun Facts
@@ -35,4 +33,4 @@ I enjoy creating useful applications, automating tasks and learning how software
 - 🚗 I like cars
 - 🎸 I enjoy music and playing guitar
 
-> **Build. Automate. Learn. Repeat. 🐍**
+> **Code. Build. Learn. Repeat. ☕**

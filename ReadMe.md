@@ -2,29 +2,29 @@
 
 I'm Haeka, a software development student from Brazil.
 
-💻 I'm focused on learning **Web Development** and building projects with JavaScript.
+☕ I'm focused on **Backend Development with Java**, building APIs and learning how scalable applications work.
 
-🌐 Currently learning **JavaScript, TypeScript, HTML, CSS and React**.
+I'm currently learning **Java, Spring Boot, REST APIs, SQL and software architecture**.
 
-I'm also exploring **Node.js, REST APIs, databases and backend development**.
-
-I enjoy turning ideas into real projects and learning by building things.
+I enjoy building backend projects, solving problems and improving my understanding of clean and maintainable code.
 
 ### What I'm currently learning
 
-- 🟨 JavaScript
-- 🔷 TypeScript
-- ⚛️ React
-- 🟢 Node.js
-- 🌐 HTML & CSS
+- ☕ Java
+- 🌱 Spring Boot
 - 🔌 REST APIs
-- 🗄️ Databases
-- 🐧 Linux & Git
+- 🗄️ SQL & PostgreSQL
+- 🔐 Authentication & Authorization
+- 🧪 Unit & Integration Testing
+- 🐳 Docker
+- 🌿 Git & GitHub
+- 🏗️ Clean Code & Software Architecture
+
 
 ### Fun Facts
 
-- 🐧 I use Linux as my daily driver
+- 🐧 I use Arch Linux as my daily driver
 - 🚗 I like cars
 - 🎸 I enjoy music and playing guitar
 
-> **Build. Learn. Improve. Repeat. 🚀**
+> **Code. Build. Learn. Repeat. ☕**
